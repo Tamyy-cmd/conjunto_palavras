@@ -2,7 +2,7 @@
 
 Programa desenvolvido em Python para criar e manipular conjuntos de palavras.
 
-## 📋 Sobre o projeto
+## Sobre o projeto
 
 O programa permite que o usuário informe palavras para formar dois conjuntos:
 
@@ -11,7 +11,7 @@ O programa permite que o usuário informe palavras para formar dois conjuntos:
 
 Após a criação dos conjuntos, é apresentado um menu com opções para realizar operações entre eles.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Criação do conjunto A;
 - Criação do conjunto B;
@@ -23,7 +23,7 @@ Após a criação dos conjuntos, é apresentado um menu com opções para realiz
 - Diferença entre A e B;
 - Diferença entre B e A.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python 3
 - Git
